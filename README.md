@@ -31,4 +31,5 @@ WHEN the game is over
 
 THEN I can save my initials and score
 
-![Alt text](assets/codequizapi.png)
+<img width="1232" alt="codequizapi" src="https://github.com/Ladywiz09/codequizapi/assets/105811958/048aae57-71f4-45b8-9dc0-255287bb3ce3">
+
